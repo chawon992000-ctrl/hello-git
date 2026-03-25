@@ -5,3 +5,5 @@ def sayHello(name):
 inName = 'Tom Brown'
 print(sayHello(inName))
 print("main 에서 생성")
+print("야르")
+
